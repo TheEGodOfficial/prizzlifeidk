@@ -1,7 +1,7 @@
 --// PRIZZLIFE, Fix by H17S3 and Riotscripter 
 --// They Had Ip Loggers and grabbify links but we removed em :)
 --// This script is skidded from wrath admin tiger admin and my script chaos admin and local players script
---// Fuck Elliexmln Shes a retarded skid
+--// Fuck Elliexmln Shes a retarded skid i meants chaos
 
 Execution_Runtime = tick() 
 PLadmin_Settings = { 
